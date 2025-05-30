@@ -1,4 +1,4 @@
-export * from './ICaupturePayment';
+export * from './ICapturePayment';
 export * from './ICreatePayment';
 export * from './ICreateReceipt';
 export * from './ICreateRefund';
